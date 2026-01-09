@@ -1,32 +1,78 @@
-# 👋 Hi, I’m Yaseen (@Yaseenm1415)
+# 👋 Hi, I’m Yaseen
 
-### 👨‍💻 About Me
-I'm a passionate developer from Kerala, India 🇮🇳.  
-I love building things with code, learning new technologies, and sharing open-source projects.
+### 🚀 Java Full Stack Developer | Student
 
-**💻 Technologies I’m familiar with:**
-- 🔹 Java / Full-Stack Development  
-- 🔹 SQL / Databases  
-- 🔹 Data Structures & Algorithms  
-- 🔹 Web Development  
-- 🔹 Git & GitHub
+I’m a passionate **Java Full Stack Developer (Student)** who loves building web applications and continuously improving my development skills.  
+Currently focused on **full-stack development**, backend logic, and preparing for a **software developer role**.
 
-### 🌟 GitHub Stats
+---
+
+## 🧑‍💻 About Me
+- 🎓 Student & aspiring **Full Stack Developer**
+- 💻 Strong interest in **Java backend development**
+- 🌱 Currently learning **Spring Boot**
+- 🎯 Career Goal: **Get a Full-Stack Developer Job**
+- 📍 India 🇮🇳
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Programming Languages
+- ☕ Java  
+- 🐍 Python  
+- 🟨 JavaScript  
+- 🗄️ SQL  
+
+### 🎨 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React (learning & practicing)
+
+### ⚙️ Backend
+- Java  
+- Spring Boot (learning)
+- Python
+
+### 🗃️ Database
+- MySQL
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Eclipse / IntelliJ IDEA  
+
+---
+
+## 📌 Projects
+
+### 🎓 Student Management System
+**Tech Stack:** Java, MySQL  
+- Manages student records efficiently  
+- Performs CRUD operations  
+- Focuses on backend logic and database connectivity  
+
+> 🚧 More projects coming soon as I continue learning and building!
+
+---
+
+## 📊 GitHub Stats
+
 ![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenm1415&show_icons=true&theme=radical)
 
-### 📊 Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseenm1415&layout=compact&theme=radical)
+## 📈 Top Languages
 
-### 🔭 I’m currently
-- Studying and working on improving my software engineering skills
-- Building cool projects and learning new technologies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseenm1415&layout=compact&theme=radical)
 
-### 📫 Connect with me:
+---
+
+## 🤝 Connect With Me
 - GitHub: https://github.com/Yaseenm1415  
-- LinkedIn: *(Add your LinkedIn URL here)*  
-- Twitter: *(Add Twitter if you have it)*  
-- Portfolio: *(Add your personal website if you have one)*
+- LinkedIn: *(Will be added soon)*  
 
-### 📝 Fun fact
-I enjoy coding, learning new things, and solving problems every day!
+---
+
+## ✨ Quote
+> “Learning never stops. Every line of code makes me better.”
 
