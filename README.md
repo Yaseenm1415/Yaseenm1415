@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Yaseen (@Yaseenm1415)
 
-<!--
-**Yaseenm1415/Yaseenm1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a passionate developer from Kerala, India 🇮🇳.  
+I love building things with code, learning new technologies, and sharing open-source projects.
 
-Here are some ideas to get you started:
+**💻 Technologies I’m familiar with:**
+- 🔹 Java / Full-Stack Development  
+- 🔹 SQL / Databases  
+- 🔹 Data Structures & Algorithms  
+- 🔹 Web Development  
+- 🔹 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 GitHub Stats
+![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenm1415&show_icons=true&theme=radical)
+
+### 📊 Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseenm1415&layout=compact&theme=radical)
+
+### 🔭 I’m currently
+- Studying and working on improving my software engineering skills
+- Building cool projects and learning new technologies
+
+### 📫 Connect with me:
+- GitHub: https://github.com/Yaseenm1415  
+- LinkedIn: *(Add your LinkedIn URL here)*  
+- Twitter: *(Add Twitter if you have it)*  
+- Portfolio: *(Add your personal website if you have one)*
+
+### 📝 Fun fact
+I enjoy coding, learning new things, and solving problems every day!
+
