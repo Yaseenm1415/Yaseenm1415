@@ -20,7 +20,6 @@ Currently focused on **full-stack development**, backend logic, and preparing fo
 
 ### 💡 Programming Languages
 - ☕ Java  
-- 🐍 Python  
 - 🟨 JavaScript  
 - 🗄️ SQL  
 
@@ -32,8 +31,7 @@ Currently focused on **full-stack development**, backend logic, and preparing fo
 
 ### ⚙️ Backend
 - Java  
-- Spring Boot (learning)
-- Python
+- Spring Boot
 
 ### 🗃️ Database
 - MySQL
