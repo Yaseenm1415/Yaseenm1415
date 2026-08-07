@@ -1,76 +1,105 @@
-# 👋 Hi, I’m Yaseen
+# Hi there 👋, I'm Muhammed Yaseen M
 
-### 🚀 Java Full Stack Developer | Student
+### 🚀 Java Full Stack Developer
 
-I’m a passionate **Java Full Stack Developer (Student)** who loves building web applications and continuously improving my development skills.  
-Currently focused on **full-stack development**, backend logic, and preparing for a **software developer role**.
+Passionate about building scalable, secure, and user-friendly web applications using Java and modern web technologies. I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Student & aspiring **Full Stack Developer**
-- 💻 Strong interest in **Java backend development**
-- 🌱 Currently learning **Spring Boot**
-- 🎯 Career Goal: **Get a Full-Stack Developer Job**
-- 📍 India 🇮🇳
+## 👨‍💻 About Me
+
+* 💼 Java Full Stack Developer
+* 🌱 Currently learning **Spring Boot, Microservices, and Cloud Technologies**
+* 🔭 Building full-stack applications with **Java, Spring Boot, React, and MySQL**
+* 💡 Passionate about Backend Development, REST APIs, and Clean Architecture
+* 🎯 Seeking opportunities to contribute, grow, and build impactful software
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Programming Languages
-- ☕ Java  
-- 🟨 JavaScript  
-- 🗄️ SQL  
+### Languages
 
-### 🎨 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React (learning & practicing)
+* Java
+* JavaScript
+* SQL
+* HTML5
+* CSS3
 
-### ⚙️ Backend
-- Java  
-- Spring Boot
+### Backend
 
-### 🗃️ Database
-- MySQL
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Hibernate
+* JPA
+* REST APIs
+* Maven
 
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Eclipse / IntelliJ IDEA  
+### Frontend
+
+* React
+* JavaScript
+* HTML
+* CSS
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* IntelliJ IDEA
+* Eclipse
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🎓 Student Management System
-**Tech Stack:** Java, MySQL  
-- Manages student records efficiently  
-- Performs CRUD operations  
-- Focuses on backend logic and database connectivity  
+### 🛒 SalesSavvy - E-Commerce Platform
 
-> 🚧 More projects coming soon as I continue learning and building!
+A full-stack e-commerce application with authentication, product management, shopping cart, and order management.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, MySQL, React
+
+### 👨‍💼 Employee Management API
+
+A RESTful API for managing employee records with CRUD operations, validation, and exception handling.
+
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenm1415&show_icons=true&theme=radical)
+* Spring Microservices
+* Docker
+* REST API Best Practices
+* Cloud Fundamentals
+* Data Structures & Algorithms
 
-## 📈 Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseenm1415&layout=compact&theme=radical)
+## 🎯 Goals
+
+* Build high-quality, scalable applications
+* Contribute to open-source projects
+* Continuously improve problem-solving skills
+* Grow as a professional Full Stack Java Developer
 
 ---
 
 ## 🤝 Connect With Me
-- GitHub: https://github.com/Yaseenm1415  
-- LinkedIn: *(Will be added soon)*  
+
+* 💼 LinkedIn: https://www.linkedin.com/in/yaseenm1415
+* 💻 GitHub: https://github.com/Yaseenm1415
+* 📧 Email: [yaseeenm1415@gmail.com](mailto:yaseeenm1415@gmail.com)
+* 🌐 Portfolio:soon
 
 ---
 
-## ✨ Quote
-> “Learning never stops. Every line of code makes me better.”
-
+⭐ *"Always learning, always building, always improving."*
